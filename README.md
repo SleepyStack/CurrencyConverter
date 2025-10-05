@@ -2,7 +2,7 @@
 
 A simple and user-friendly desktop application for converting between different currencies, built with Java and the Swing GUI toolkit. This project was created as a basic demonstration of GUI development in Java.
 
-*Note: You should replace `placeholder.png` with an actual screenshot of your running application.*
+*Note: This is a project for my college assesement, but feel free to use it however you please.*
 
 ## Features
 
